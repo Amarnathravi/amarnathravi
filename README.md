@@ -1,4 +1,4 @@
-<img src="https://github.com/Amarnathravi/amarnathravi/blob/main/githubamar.jpeg" alt="logo" width="1240" height="400">
+<img src="https://github.com/Amarnathravi/amarnathravi/blob/main/githubamar.jpeg" alt="logo" width="1240" height="300">
 <h1 align="center">Hi 👋, I'm AMAR NATH RAVI</h1>
 <h3 align="center">A Passionate Software(Front-end) Developer from INDIA<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/google/350/flag-india_1f1ee-1f1f3.png" alt="Indian flag" width="20" height="20"></h3>
 
